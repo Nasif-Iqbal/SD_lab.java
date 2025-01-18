@@ -28,7 +28,7 @@ public class Sum {
     }
 }
 
-// *****************single inheritance**************
+*****************single inheritance**************
 // Java Program to illustrate Inheritance (concise)
 
 import java.io.*;
